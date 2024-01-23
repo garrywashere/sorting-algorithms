@@ -1,12 +1,14 @@
 # Made with ❤️ by Garry
 # 22/01/24
 
-import random
+import random, time
 
 data = [1,2,3,4,5,6,7,8,9,0] # Define our data set
 random.shuffle(data) # Shuffle the data
 
 print("Our unsorted data:", str(data)) # Print our original unsorted/shuffled data
+
+start = time.time()
 
 lengthOfData = len(data) # Determine the length of our array (Data)
 
@@ -24,4 +26,7 @@ for _pass in range(lengthOfData): # Iterate through our array, these will be our
         else: # If the first value is not larger than the second value:
             pass # Do nothing
 
+end = time.time()
+
 print("\nOur sorted data:", str(data)) # Print out the final sorted data
+print("Time taken:", str(end-start)+"s")
