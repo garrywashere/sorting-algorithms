@@ -12,7 +12,7 @@ You're very welcome to clone and modify the code, as well as feel free to let me
 ## Algorithms Included
 - Bubble sort ✅
 - Merge sort ✅
-- Insertion sort (WIP)
+- Insertion sort ✅
 - Quick sort (WIP)
 
 ## To-do
