@@ -10,7 +10,10 @@ Pull the repository or view the code on github, then just navigate the folders o
 You're very welcome to clone and modify the code, as well as feel free to let me know if you have any improvements :)
 
 ## Algorithms Included
-- Bubble sort
-- Merge sort
-- Insertion sort
-- Quick sort
+- Bubble sort ✅
+- Merge sort ✅
+- Insertion sort (WIP)
+- Quick sort (WIP)
+
+## To-do
+- Rewrite scripts to be able to be run independently and as a function for ```run-all.py``` as a playground, to be able to compare algorithm efficiency.
