@@ -17,6 +17,6 @@ You're very welcome to clone and modify the code, and feel free to let me know i
 
 ## To-do
 - ~~Rewrite scripts to be able to run independently and as a function for `run-all.py` as a playground, allowing comparison of algorithm efficiency.~~
-- Actually add documentation explaining code
-- Work on comments
+- ~~Actually add documentation explaining code~~
+- ~~Work on comments~~
 - Implement threading
